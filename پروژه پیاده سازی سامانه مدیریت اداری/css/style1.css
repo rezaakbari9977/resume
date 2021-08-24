@@ -1,0 +1,45 @@
+div.header {
+  background-color:gray;
+  color:#eee;
+  text-indent: 20%;
+  direction: rtl;
+  width: 60%;
+  float: right;
+}
+h1.header {
+  font: bold 25px b titr;
+}
+#txt {
+  background-color:gray;
+  color:#eee;
+  padding-top: 34px;
+  padding-bottom: 26px;
+  text-align:center;
+  width: 8%;
+  float: left;
+  overflow: hidden;
+}
+div.date {
+  background-color:gray;
+  color:#eee;
+  padding-top: 34px;
+  padding-bottom: 26px;
+  text-align:center;
+  width: 10%;
+  float: left;
+  overflow: hidden;
+}
+div.wellcome {
+    background-color:gray;
+    color:#eee;
+    padding-top: 34px;
+    padding-bottom: 26px;
+    text-align:center;
+    width: 22%;
+    float: left;
+    overflow: hidden;
+}
+a.exsit {
+  float: left;
+  padding-left: 5px;
+}

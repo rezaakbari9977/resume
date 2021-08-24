@@ -1,0 +1,37 @@
+div.header {
+  background-color:gray;
+  color:#eee;
+  text-indent: 20%;
+  direction: rtl;
+  width: 70%;
+  float: right;
+}
+h1.header {
+  font: bold 25px b titr;
+}
+#txt {
+  background-color:gray;
+  color:#eee;
+  padding-top: 34px;
+  padding-bottom: 26px;
+  text-align:center;
+  width: 15%;
+  float: left;
+  overflow: hidden;
+}
+div.date {
+  background-color:gray;
+  color:#eee;
+  padding-top: 34px;
+  padding-bottom: 26px;
+  text-align:center;
+  width: 15%;
+  float: left;
+  overflow: hidden;
+}
+<!-- لوگو سایت img.logo {
+  height: 60px;
+  width: 50px;
+
+}
+-->
